@@ -10,7 +10,7 @@ public class ArrayLists {
     cars.add(0,"naresh");
     cars.set(0,"suresh");
     System.out.println(cars);
-    System.out.println(cars.get(0));
+    System.out.println(cars.get(0)); 
     System.out.println(cars.remove(0));
     // cars.clear();
     System.out.println(cars.size());
